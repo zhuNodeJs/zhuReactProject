@@ -1,4 +1,4 @@
-/node_modules/
+node_modules/
 .project
-/dist/
-/jspm_packages/
+dist/
+jspm_packages/
